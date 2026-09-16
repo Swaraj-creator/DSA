@@ -18,4 +18,6 @@ int main() {
         cout << "\n";
         count++;
     }
+    
+    return 0;
 }
